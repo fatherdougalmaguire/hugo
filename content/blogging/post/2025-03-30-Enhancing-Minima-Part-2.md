@@ -2,6 +2,7 @@
 title: "Fun with CSS"
 excerpt: "Coming soon!"
 date : 2025-03-30
+weight: 3
 tags:
  - Jekyll
  - Blog

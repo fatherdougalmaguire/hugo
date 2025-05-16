@@ -23,7 +23,7 @@ So it then becane a decision on whether I went with a turnkey solution like [Goo
 
 I became somewhat frustrated with Google Sites as I couldn't style it the way I wanted ( notwithstanding I had access to an unused instance just hanging around) .
 Starting from scratch seemed to be a fool's errand.
-I didn't know one end of a CSS from another and the last time I created a web page, the **BLINK**{ tag was de rigueur.
+I didn't know one end of a CSS from another and the last time I created a web page, the **BLINK** tag was de rigueur.
 
 \
 ![Confused man and cat](confused-man.jpg "Confused man and cat")

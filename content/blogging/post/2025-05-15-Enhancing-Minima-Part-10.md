@@ -2,6 +2,7 @@
 title: "Jekyll vs Hugo"
 excerpt: "Coming soon!"
 date : 2025-05-15
+weight: 11
 tags:
  - Jekyll
  - Blog

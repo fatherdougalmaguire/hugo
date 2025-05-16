@@ -1,6 +1,7 @@
 ---
 date : 2025-03-28
 title: "Introducing Abeja"
+weight: 1
 tags:
  - Z80
  - Emulation
@@ -19,7 +20,7 @@ Which is Spanish for **bee** ( a nod to my heritage ).
 
 It is written for MacOS Sonoma ( v14.0+ ) using Swift/SwiftUI.
 
-![Abeja](/assets/images/abeja-0.195.png)
+![Abeja](abeja-0.195.png)
 
 Currently state of play : 
 

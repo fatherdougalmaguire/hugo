@@ -2,6 +2,7 @@
 title: "Tags and Categories"
 excerpt: "Coming soon!"
 date : 2025-04-01
+weight: 4
 tags:
  - Jekyll
  - Blog

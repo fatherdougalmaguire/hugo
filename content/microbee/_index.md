@@ -2,12 +2,11 @@
 title: "Microbee"
 excerpt: Back in distant past,  my family owned a Microbee. 
 ---
-
+<!--
 ![](Microbee32K_IC.png)
 
 Photo credit : [Wikipedia](https://en.wikipedia.org/wiki/MicroBee "Wikipedia")
-
-\
+-->
 Back in distant past,  my family owned a Microbee. 
 
 The Microbee was an Australian designed and manufactured home computer ( by a company called Applied Technology ), popular during the 1980's.  

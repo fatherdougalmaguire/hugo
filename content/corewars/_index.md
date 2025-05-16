@@ -2,12 +2,11 @@
 title: "CoreWars"
 excerpt: I first read about CoreWars in old back issues of Scientific American.
 ---
-
+<!--
 ![](pmarssdl.png)
 
 Photo credit : [Wikipedia](https://en.wikipedia.org/wiki/MicroBee)
-
-\
+-->
 I first read about CoreWars in old back issues of Scientific American.
 
 And I was hooked.

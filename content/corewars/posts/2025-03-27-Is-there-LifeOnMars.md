@@ -1,6 +1,6 @@
 ---
 title: "Is there LifeOnMars ?"
-layout: post
+weight: 1
 date: 2025-03-27
 tags:
  - Redcode

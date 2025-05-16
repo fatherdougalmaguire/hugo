@@ -2,6 +2,7 @@
 title: "Google Analytics and Cookie Consent and Contact Forms"
 excerpt: "Coming soon!"
 date : 2025-04-19
+weight: 7
 tags:
  - Jekyll
  - Blog

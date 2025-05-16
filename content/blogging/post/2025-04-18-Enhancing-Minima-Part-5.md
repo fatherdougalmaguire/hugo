@@ -2,6 +2,7 @@
 title: "Pagination"
 excerpt: "Coming soon!"
 date : 2025-04-18
+weight: 6
 tags:
  - Jekyll
  - Blog

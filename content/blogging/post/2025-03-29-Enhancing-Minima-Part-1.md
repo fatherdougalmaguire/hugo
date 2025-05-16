@@ -1,6 +1,7 @@
 ---
 title: "Navigation and Content"
 date : 2025-03-29
+weight: 2
 tags:
  - Jekyll
  - Blog
