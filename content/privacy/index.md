@@ -3,7 +3,7 @@ title: "Privacy and Disclaimer"
 layout: page
 ---
 
-![Talking about Privacy](/assets/images/privacy.png "Talking about Privacy")
+![Talking about Privacy](privacy.png "Talking about Privacy")
 
 ## Privacy Policy
 

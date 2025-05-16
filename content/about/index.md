@@ -1,26 +1,22 @@
 ---
-layout: page
 title: "About Me"
-permalink: /about
-include_search : true
 excerpt : Contrary to what the the site title may lead you to believe, I am not an Irish priest living in exile on a windswept island.
 ---
 Contrary to what the the site title may lead you to believe, I am not an Irish priest living in exile on a windswept island.
 
 I live in Sydney, Australia and work for the technology arm of a large financial institution.    
 
-That being said, my skills are more technology adjacent.
+That being said, my skills are more technology adjacent.  
 So when it comes to HTML/CSS/JS et al,  I am entirely self-taught.
 
 Which will become pretty obvious if you page through the blog,
 
 On the plus, I do own a beautiful black cat.
 
-![](/assets/images/aboutme.jpg "A black cat")
+![](aboutme.jpg)
 
-<br>
+
 ### Drop me a line
-<br>
 
 <form
   action="https://formspree.io/f/mqaqzpgo"

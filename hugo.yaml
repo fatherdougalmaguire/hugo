@@ -22,7 +22,7 @@ menu:
       pageRef: /microbee
       weight: 1
     - name: Corewars
-      pageRef: /Corewars
+      pageRef: /corewars
       weight: 2
     - name: Blogging
       pageRef: /blogging
@@ -38,12 +38,18 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: logo.svg
+      dark: logo.svg
+      link: /
+      width: 40
+      height: 20
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
