@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: An ecumenical matter
 
 # import hextra as module
 module:
@@ -18,29 +18,22 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Microbee
+      pageRef: /microbee
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Corewars
+      pageRef: /Corewars
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Blogging
+      pageRef: /blogging
       weight: 3
-    - name: Search
+    - name: About Me
       weight: 4
+      pageRef: /about
+    - name: Search
+      weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
